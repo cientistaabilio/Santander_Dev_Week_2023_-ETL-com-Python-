@@ -44,6 +44,7 @@
 - Tentar ver e entender outras formas de tornar o código mais modular, legível e fácil de entender.
 - Sem dúvida, há diversas melhorias possíveis, e com meu aprofundamento, poderei compreendê-las melhor.
 
+# 🚀Futuro Cientista de dados 
 <p>
     <img 
       align=left 
