@@ -38,7 +38,7 @@
     Google Colab.
 </a>
 
-🥅 Melhorias futuras
+## 🥅 Melhorias futuras
 - Pretendo no futuro inserir gráficos. Neste projeto, os dados foram apresentados como um relatório digitado.
 - Padronizar o uso do pd.cut quando necessário.
 - Tentar ver e entender outras formas de tornar o código mais modular, legível e fácil de entender.
